@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AddTwoNums<JAVA_59da9b0>",
+            "request": "launch",
+            "mainClass": "AddTwoNums",
+            "projectName": "JAVA_59da9b0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Demo<JAVA_59da9b0>",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "JAVA_59da9b0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Demo2<JAVA_59da9b0>",
+            "request": "launch",
+            "mainClass": "Demo2",
+            "projectName": "JAVA_59da9b0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EncapsulationExample<JAVA_59da9b0>",
+            "request": "launch",
+            "mainClass": "EncapsulationExample",
+            "projectName": "JAVA_59da9b0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FirstJavaProgram<JAVA_59da9b0>",
+            "request": "launch",
+            "mainClass": "FirstJavaProgram",
+            "projectName": "JAVA_59da9b0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MathTeacher<JAVA_59da9b0>",
+            "request": "launch",
+            "mainClass": "MathTeacher",
+            "projectName": "JAVA_59da9b0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StaticVarExample<JAVA_59da9b0>",
+            "request": "launch",
+            "mainClass": "StaticVarExample",
+            "projectName": "JAVA_59da9b0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-VariableExample<JAVA_59da9b0>",
+            "request": "launch",
+            "mainClass": "VariableExample",
+            "projectName": "JAVA_59da9b0"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Website<JAVA_59da9b0>",
+            "request": "launch",
+            "mainClass": "Website",
+            "projectName": "JAVA_59da9b0"
+        }
+    ]
+}
